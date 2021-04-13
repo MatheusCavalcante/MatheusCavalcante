@@ -1,7 +1,7 @@
 ## :metal: Hey there! I’m Matheus Cavalcante
 
 ### :man_technologist: Aboute Me
-- I'm a .NET Developer from Foraleza - Brazil, I really like technology and science, I'm a lifelong learner
+- I'm a .NET Developer from Fortaleza - Brazil, I really like technology and science, I'm a lifelong learner
 - I'm graduated in Systems Analysis and Development and studying Data Science.
 - In my free time I like to play video game, read books, play guitar and practise Muay Thai
 
